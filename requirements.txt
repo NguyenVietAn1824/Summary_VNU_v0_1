@@ -1,0 +1,11 @@
+streamlit == 1.25.0
+torch
+torchvision
+torchaudio
+transformers
+sentencepiece
+numpy
+rouge
+underthesea
+pymupdf
+python-docx
